@@ -2,11 +2,11 @@
   "name": "wti-chat-frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://eclectic-malabi-3a08d5.netlify.app",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-scripts": "5.0.1"
+    "react-scripts": "5.0.1",
+    "web-vitals": "^2.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
